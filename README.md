@@ -50,6 +50,7 @@ funcion sumar(a, b)
 funcion!
 
 vn total = sumar(10, 5)
+```
 ---
 
 ## 🔌 Sistema Modular (Módulos Útiles)
