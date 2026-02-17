@@ -63,4 +63,4 @@ Para activar estas funciones, usa: `importar("nombre_modulo")`.
 > **Nota para desarrolladores:** Este proyecto es **Open Source**. El IDE está desarrollado en Python (Tkinter) y el motor de ejecución en C++.
 
 ---
-Creado con ❤️ para simplificar la programación.
+Creado para simplificar la programación.
