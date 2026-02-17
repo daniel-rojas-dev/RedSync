@@ -56,7 +56,7 @@ Para activar estas funciones, usa: `importar("nombre_modulo")`.
 ---
 
 ## 🚀 Instalación y Uso
-1. Descarga la última versión desde el apartado de **Releases**.
+1. Descarga la última versión desde [URL pendiente]
 2. Ejecuta `RedSyncStudio.exe`.
 3. Escribe tu código y presiona **F4** para ejecutar.
 
