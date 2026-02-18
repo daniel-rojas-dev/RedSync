@@ -67,7 +67,7 @@ Para activar estas funciones, usa: `importar("nombre_modulo")`.
 ---
 
 ## 🚀 Instalación y Uso
-1. Descarga la última versión desde [URL pendiente]
+1. Descarga la última versión desde https://redsync-sdk.netlify.app
 2. Ejecuta `RedStudio.exe`.
 3. Escribe tu código y presiona **F4** para ejecutar.
 
