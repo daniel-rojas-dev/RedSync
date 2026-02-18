@@ -1,5 +1,5 @@
 /**
- * REDSYNC v3.5.0 - Modulos
+ * REDSYNC v3.6.0 - Modulos
  * Main Interpreter File...
  */ 
 
@@ -952,4 +952,5 @@ int main(int argc, char* argv[]) {
     ejecutar_bloque(0);
 
     return 0;
+
 }
